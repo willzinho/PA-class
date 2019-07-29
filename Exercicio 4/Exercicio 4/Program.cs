@@ -10,13 +10,6 @@ namespace Exercicio_4
     {
         static void Main(string[] args)
         {
-            //Escreva um algoritmo para ler um valo e escrever seu antecessor.
-            int n1, resultado;
-            Console.Write("Digite um valor: ");
-            n1 = int.Parse(Console.ReadLine());
-            resultado = n1 - 1;
-            Console.Write("Resultado é: " + resultado);
-            Console.ReadLine();
         }
     }
 }

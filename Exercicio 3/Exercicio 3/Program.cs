@@ -10,16 +10,20 @@ namespace Exercicio_3
     {
         static void Main(string[] args)
         {
-            //Escreva um algoritmo que armazene o valor 10 em uma variavel A e o valor 20 em uma variavel B. A seguir (utilizando apenas atribuiçoes entre variaveis) troque os seus conteudos fazendo com que esta em A passe par B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variaveis.
-            int a, b, c;
-            a = 10;
-            b = 20;
-            c = a;
-            a = b;
-            b = c;
-            Console.Write(a + " ");
-            Console.Write(b);
-            Console.ReadLine();
+            // Exercicio 3 - lista 2
+            int v1, v2;
+            Console.Write("Informe o valor : ");
+            v1 = int.Parse(Console.ReadLine());
+            Console.Write("Informe outro valor : ");
+            v2 = int.Parse(Console.ReadLine());
+            if (v1 == v2)
+                Console.WriteLine("Os numeros são iguais");
+            else
+            if (v1 > v2)
+                Console.WriteLine("Primeiro numero é maior");
+            else
+                Console.WriteLine("Segundo numero é maior");
+            Console.Read();
         }
     }
 }
