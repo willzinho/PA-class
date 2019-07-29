@@ -1,0 +1,7 @@
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\bin\Debug\Excercicio 1.exe.config
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\bin\Debug\Excercicio 1.exe
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\bin\Debug\Excercicio 1.pdb
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\obj\Debug\Excercicio 1.csprojResolveAssemblyReference.cache
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\obj\Debug\Excercicio 1.csproj.CoreCompileInputs.cache
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\obj\Debug\Excercicio 1.exe
+G:\etec\nilson C#\Lista 1\Excercicio 1\Excercicio 1\obj\Debug\Excercicio 1.pdb

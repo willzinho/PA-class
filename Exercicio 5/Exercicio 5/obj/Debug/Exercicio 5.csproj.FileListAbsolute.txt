@@ -1,0 +1,7 @@
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe.config
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.pdb
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csprojAssemblyReference.cache
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csproj.CoreCompileInputs.cache
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.exe
+F:\etec\nilson C#\Lista 1\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.pdb
