@@ -1,0 +1,7 @@
+F:\PA\Projeto1\Projeto1\obj\Debug\Projeto1.csprojResolveAssemblyReference.cache
+F:\PA\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+F:\PA\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+F:\PA\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+F:\PA\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+F:\PA\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+F:\PA\Projeto1\Projeto1\obj\Debug\Projeto1.pdb

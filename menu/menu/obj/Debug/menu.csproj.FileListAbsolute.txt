@@ -1,0 +1,14 @@
+F:\PA\menu\menu\bin\Debug\menu.exe.config
+F:\PA\menu\menu\bin\Debug\menu.exe
+F:\PA\menu\menu\bin\Debug\menu.pdb
+F:\PA\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+F:\PA\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+F:\PA\menu\menu\obj\Debug\menu.exe
+F:\PA\menu\menu\obj\Debug\menu.pdb
+H:\PA\menu\menu\bin\Debug\menu.exe.config
+H:\PA\menu\menu\bin\Debug\menu.exe
+H:\PA\menu\menu\bin\Debug\menu.pdb
+H:\PA\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+H:\PA\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+H:\PA\menu\menu\obj\Debug\menu.exe
+H:\PA\menu\menu\obj\Debug\menu.pdb

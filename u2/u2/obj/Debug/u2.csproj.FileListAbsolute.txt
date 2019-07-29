@@ -1,0 +1,7 @@
+F:\PA\u2\u2\bin\Debug\u2.exe.config
+F:\PA\u2\u2\bin\Debug\u2.exe
+F:\PA\u2\u2\bin\Debug\u2.pdb
+F:\PA\u2\u2\obj\Debug\u2.csprojResolveAssemblyReference.cache
+F:\PA\u2\u2\obj\Debug\u2.csproj.CoreCompileInputs.cache
+F:\PA\u2\u2\obj\Debug\u2.exe
+F:\PA\u2\u2\obj\Debug\u2.pdb
